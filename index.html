@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<system.webServer>
+<staticContent>
+<mimeMap fileExtension=".json" mimeType="application/json"/>
+</staticContent>
+</system.webServer>
+
+  <head>
+    <script data-require="jquery@*" data-semver="3.1.1" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+    <h2>Student Management System</h2>
+    <form id="form1" method="post" action="" onsubmit="">
+      <table cellspacing="5" border="0">
+        <tbody>
+          <tr>
+            <td>Firstname:</td>
+            <td align="left">
+              <input id="firstname" type="text" size="30" maxlength="30" placeholder="Username within 10 characters" />
+            </td>
+          </tr>
+          <tr>
+            <td>Lastname:</td>
+            <td align="left">
+              <input id="lastname" type="text" size="30" maxlength="30" placeholder="Password within 10 characters" />
+            </td>
+          </tr>
+          <tr>
+            <td>Email:</td>
+            <td align="left">
+              <input id="email" type="text" size="30" maxlength="30" placeholder="exp: XXX@marlabs.com"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Location:</td>
+            <td align="left">
+              <input id="location" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td>Phone:</td>
+            <td align="left">
+              <input id="phone" type="text" size="30" maxlength="30" placeholder="U.S. number only"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Current_class:</td>
+            <td align="left">
+              <input id="current" type="text" size="30" maxlength="30" placeholder="1 - 10th"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Address</td>
+            <td>communication:</td>
+            <td align="left">
+              <input id="comm" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>permanent:</td>
+            <td align="left">
+              <input id="perm" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td>Marks</td>
+            <td>english:</td>
+            <td align="left">
+              <input id="eng" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>science:</td>
+            <td align="left">
+              <input id="sci" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>computer:</td>
+            <td align="left">
+              <input id="comp" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>hardware:</td>
+            <td align="left">
+              <input id="hard" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br />
+      </form>
+      <input type="submit" value="Add" id="add" />
+      <input type="submit" value="Search" id="search" />
+      <input type="submit" value="Details" id="details" />
+      <input type="submit" value="Delete" id="delete" />
+      <input type="submit" value="Edit" id="edit" />
+      <select name="dropdown" id="dropdown">
+          <option  value="20">20</option>
+          <option  value="50">50</option>
+          <option  value="100">100</option>
+      </select>
+      <input type="submit" value="Go" id="go" />
+    <br /><br />
+    <p id="deletedemo"></p>
+    <table id="myTable" style="width:50%" border="2px">
+      <tr><td> firstname </td>
+      <td> lastname </td>
+      <td> email </td>
+      <td> location </td>
+      <td> phone </td>
+      <td> current_class </td>
+      <td> address </td>
+      </tr>
+    </table>
+    <br />
+    <table id="detailtable" style="width:50%" border="2px">
+    </table>
+    <h3 id="nomore"></h3>
+  </body>
+
+</html>

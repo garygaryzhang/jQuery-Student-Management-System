@@ -1,0 +1,2202 @@
+[
+  {
+    "firstname": "Sanford Frazier",
+    "lastname": "Hurst Forbes",
+    "email": "hurstforbes@geeketron.com",
+    "location": "Bentonville,Wakulla,Saticoy",
+    "phone": "(963) 568-3918",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Zensor, Idledale, Illinois",
+        "permanent": "Comvey, Dodge, Florida"
+      }
+    ],
+    "marks": [
+      {
+        "english": 65,
+        "science": 9,
+        "computer": 60,
+        "hardware": 75
+      }
+    ]
+  },
+  {
+    "firstname": "Yvonne Mcmillan",
+    "lastname": "Pace Barrera",
+    "email": "pacebarrera@comvey.com",
+    "location": "Nipinnawasee,Cucumber,Gloucester",
+    "phone": "(807) 424-2843",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Syntac, Hinsdale, Louisiana",
+        "permanent": "Xiix, Matthews, Alaska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 5,
+        "science": 11,
+        "computer": 57,
+        "hardware": 55
+      }
+    ]
+  },
+  {
+    "firstname": "Lopez Faulkner",
+    "lastname": "Owen Zamora",
+    "email": "owenzamora@xiix.com",
+    "location": "Summertown,Teasdale,Chemung",
+    "phone": "(855) 530-2515",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Snowpoke, Glenville, Mississippi",
+        "permanent": "Telepark, Barrelville, Arkansas"
+      }
+    ],
+    "marks": [
+      {
+        "english": 90,
+        "science": 53,
+        "computer": 100,
+        "hardware": 22
+      }
+    ]
+  },
+  {
+    "firstname": "Rojas Madden",
+    "lastname": "Stuart Velasquez",
+    "email": "stuartvelasquez@telepark.com",
+    "location": "Hondah,Crayne,Witmer",
+    "phone": "(916) 527-2276",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Virva, Ladera, Maryland",
+        "permanent": "Hopeli, Jessie, Nevada"
+      }
+    ],
+    "marks": [
+      {
+        "english": 63,
+        "science": 49,
+        "computer": 71,
+        "hardware": 42
+      }
+    ]
+  },
+  {
+    "firstname": "Velazquez Sherman",
+    "lastname": "Spence Parsons",
+    "email": "spenceparsons@hopeli.com",
+    "location": "Venice,Moscow,Williston",
+    "phone": "(844) 546-3100",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Candecor, Frystown, Connecticut",
+        "permanent": "Gallaxia, Inkerman, Massachusetts"
+      }
+    ],
+    "marks": [
+      {
+        "english": 5,
+        "science": 61,
+        "computer": 66,
+        "hardware": 22
+      }
+    ]
+  },
+  {
+    "firstname": "Pearlie Marsh",
+    "lastname": "Quinn Wilkins",
+    "email": "quinnwilkins@gallaxia.com",
+    "location": "Chestnut,Hegins,Hickory",
+    "phone": "(843) 465-3400",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Tingles, Jeff, Georgia",
+        "permanent": "Comvoy, Mappsville, New Mexico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 39,
+        "science": 19,
+        "computer": 7,
+        "hardware": 57
+      }
+    ]
+  },
+  {
+    "firstname": "Velma Sargent",
+    "lastname": "Millie Calhoun",
+    "email": "milliecalhoun@comvoy.com",
+    "location": "Eagletown,Hannasville,Veguita",
+    "phone": "(930) 500-3751",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Zappix, Rosewood, California",
+        "permanent": "Zisis, Grantville, Maine"
+      }
+    ],
+    "marks": [
+      {
+        "english": 68,
+        "science": 13,
+        "computer": 84,
+        "hardware": 53
+      }
+    ]
+  },
+  {
+    "firstname": "Shepherd Hubbard",
+    "lastname": "Espinoza Tran",
+    "email": "espinozatran@zisis.com",
+    "location": "Mapletown,Trail,Hollymead",
+    "phone": "(838) 435-3072",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Sealoud, Stagecoach, Tennessee",
+        "permanent": "Endipin, Robinson, Missouri"
+      }
+    ],
+    "marks": [
+      {
+        "english": 40,
+        "science": 79,
+        "computer": 52,
+        "hardware": 67
+      }
+    ]
+  },
+  {
+    "firstname": "Haney Dillon",
+    "lastname": "Solomon Burt",
+    "email": "solomonburt@endipin.com",
+    "location": "Remington,Woodburn,Bonanza",
+    "phone": "(892) 582-2420",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Earwax, Bangor, Northern Mariana Islands",
+        "permanent": "Enormo, Olney, Virginia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 49,
+        "science": 44,
+        "computer": 82,
+        "hardware": 42
+      }
+    ]
+  },
+  {
+    "firstname": "Whitehead Goff",
+    "lastname": "Gay Morales",
+    "email": "gaymorales@enormo.com",
+    "location": "Gibbsville,Bakersville,Twilight",
+    "phone": "(814) 525-3891",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Kyaguru, Waukeenah, Virgin Islands",
+        "permanent": "Ecraze, Riner, Nebraska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 65,
+        "science": 17,
+        "computer": 58,
+        "hardware": 70
+      }
+    ]
+  },
+  {
+    "firstname": "Mckay Day",
+    "lastname": "Gutierrez Sims",
+    "email": "gutierrezsims@ecraze.com",
+    "location": "Gerton,Lindcove,Coalmont",
+    "phone": "(834) 472-3708",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Amtap, Edgewater, Utah",
+        "permanent": "Quordate, Bowmansville, Puerto Rico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 60,
+        "science": 82,
+        "computer": 49,
+        "hardware": 19
+      }
+    ]
+  },
+  {
+    "firstname": "Lizzie Fox",
+    "lastname": "Shelia Carey",
+    "email": "sheliacarey@quordate.com",
+    "location": "Corriganville,Greenbush,Freetown",
+    "phone": "(865) 424-2990",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Momentia, Wilsonia, Wyoming",
+        "permanent": "Chorizon, Fowlerville, South Dakota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 78,
+        "science": 71,
+        "computer": 22,
+        "hardware": 73
+      }
+    ]
+  },
+  {
+    "firstname": "Toni Mcintosh",
+    "lastname": "Nita Higgins",
+    "email": "nitahiggins@chorizon.com",
+    "location": "Centerville,Connerton,Draper",
+    "phone": "(898) 417-3034",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Multron, Basye, Marshall Islands",
+        "permanent": "Isoplex, Yettem, North Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 73,
+        "science": 54,
+        "computer": 20,
+        "hardware": 25
+      }
+    ]
+  },
+  {
+    "firstname": "Florence Rose",
+    "lastname": "Tammi Guerra",
+    "email": "tammiguerra@isoplex.com",
+    "location": "Sexton,Leroy,Bath",
+    "phone": "(986) 531-2463",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Uberlux, Keller, Idaho",
+        "permanent": "Quonk, Rockbridge, New Jersey"
+      }
+    ],
+    "marks": [
+      {
+        "english": 8,
+        "science": 1,
+        "computer": 30,
+        "hardware": 28
+      }
+    ]
+  },
+  {
+    "firstname": "Ada Shepard",
+    "lastname": "Angie Hebert",
+    "email": "angiehebert@quonk.com",
+    "location": "Marenisco,Orason,Vallonia",
+    "phone": "(909) 462-2404",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Unq, Goldfield, Kansas",
+        "permanent": "Mangelica, Yogaville, New Hampshire"
+      }
+    ],
+    "marks": [
+      {
+        "english": 41,
+        "science": 33,
+        "computer": 53,
+        "hardware": 29
+      }
+    ]
+  },
+  {
+    "firstname": "Virginia Marshall",
+    "lastname": "Houston Graham",
+    "email": "houstongraham@mangelica.com",
+    "location": "Madaket,Cecilia,Konterra",
+    "phone": "(880) 535-3776",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Primordia, Imperial, Vermont",
+        "permanent": "Nexgene, Ruffin, Wisconsin"
+      }
+    ],
+    "marks": [
+      {
+        "english": 80,
+        "science": 86,
+        "computer": 98,
+        "hardware": 83
+      }
+    ]
+  },
+  {
+    "firstname": "Olive Dillard",
+    "lastname": "Rush Mcclure",
+    "email": "rushmcclure@nexgene.com",
+    "location": "Templeton,Rivers,Alamo",
+    "phone": "(823) 576-2552",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Zaggle, Coinjock, Texas",
+        "permanent": "Recognia, Murillo, Montana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 75,
+        "science": 38,
+        "computer": 72,
+        "hardware": 56
+      }
+    ]
+  },
+  {
+    "firstname": "Hobbs Brewer",
+    "lastname": "Lelia Flores",
+    "email": "leliaflores@recognia.com",
+    "location": "Chamberino,Chical,Galesville",
+    "phone": "(816) 409-2135",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Octocore, Fairforest, Federated States Of Micronesia",
+        "permanent": "Codact, Lund, Palau"
+      }
+    ],
+    "marks": [
+      {
+        "english": 60,
+        "science": 18,
+        "computer": 99,
+        "hardware": 46
+      }
+    ]
+  },
+  {
+    "firstname": "Sybil Baker",
+    "lastname": "Luz Knapp",
+    "email": "luzknapp@codact.com",
+    "location": "Dorneyville,Gadsden,National",
+    "phone": "(933) 507-3611",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Hawkster, Bellamy, Kentucky",
+        "permanent": "Skyplex, Mahtowa, South Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 65,
+        "science": 18,
+        "computer": 41,
+        "hardware": 49
+      }
+    ]
+  },
+  {
+    "firstname": "Bonner Reynolds",
+    "lastname": "Kirk Perry",
+    "email": "kirkperry@skyplex.com",
+    "location": "Hanover,Forestburg,Siglerville",
+    "phone": "(813) 422-2485",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Ecrater, Springville, Oklahoma",
+        "permanent": "Unisure, Greenock, Arizona"
+      }
+    ],
+    "marks": [
+      {
+        "english": 54,
+        "science": 92,
+        "computer": 92,
+        "hardware": 91
+      }
+    ]
+  },
+  {
+    "firstname": "Pugh Humphrey",
+    "lastname": "Bertha Pate",
+    "email": "berthapate@unisure.com",
+    "location": "Coral,Verdi,Orick",
+    "phone": "(872) 558-3330",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Lingoage, Hiko, Washington",
+        "permanent": "Daido, Vowinckel, Rhode Island"
+      }
+    ],
+    "marks": [
+      {
+        "english": 16,
+        "science": 89,
+        "computer": 34,
+        "hardware": 67
+      }
+    ]
+  },
+  {
+    "firstname": "Randi Evans",
+    "lastname": "Leslie Gonzales",
+    "email": "lesliegonzales@daido.com",
+    "location": "Newkirk,Sheatown,Brazos",
+    "phone": "(945) 537-2525",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Extragene, Sunwest, Oregon",
+        "permanent": "Avit, Henrietta, Minnesota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 50,
+        "science": 56,
+        "computer": 11,
+        "hardware": 100
+      }
+    ]
+  },
+  {
+    "firstname": "Alta Mathews",
+    "lastname": "Ollie Blevins",
+    "email": "ollieblevins@avit.com",
+    "location": "Goodville,Beaulieu,Jacksonwald",
+    "phone": "(818) 599-3939",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Orbaxter, Levant, Michigan",
+        "permanent": "Quilk, Cetronia, District Of Columbia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 100,
+        "science": 4,
+        "computer": 41,
+        "hardware": 7
+      }
+    ]
+  },
+  {
+    "firstname": "Nola Noel",
+    "lastname": "Brooks Walters",
+    "email": "brookswalters@quilk.com",
+    "location": "Marienthal,Romeville,Churchill",
+    "phone": "(910) 448-2002",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Gonkle, Trexlertown, American Samoa",
+        "permanent": "Idego, Hebron, Ohio"
+      }
+    ],
+    "marks": [
+      {
+        "english": 29,
+        "science": 51,
+        "computer": 73,
+        "hardware": 19
+      }
+    ]
+  },
+  {
+    "firstname": "Samantha Rios",
+    "lastname": "Ebony Porter",
+    "email": "ebonyporter@idego.com",
+    "location": "Interlochen,Osage,Rodanthe",
+    "phone": "(832) 406-3305",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Brainquil, Darrtown, West Virginia",
+        "permanent": "Isosphere, Chaparrito, Indiana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 58,
+        "science": 21,
+        "computer": 90,
+        "hardware": 66
+      }
+    ]
+  },
+  {
+    "firstname": "Dora Collins",
+    "lastname": "Saundra Lancaster",
+    "email": "saundralancaster@isosphere.com",
+    "location": "Cotopaxi,Needmore,Hardyville",
+    "phone": "(851) 597-2092",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Fossiel, Cornucopia, Pennsylvania",
+        "permanent": "Omnigog, Farmington, Iowa"
+      }
+    ],
+    "marks": [
+      {
+        "english": 21,
+        "science": 18,
+        "computer": 37,
+        "hardware": 15
+      }
+    ]
+  },
+  {
+    "firstname": "Nina Graves",
+    "lastname": "Paul Levine",
+    "email": "paullevine@omnigog.com",
+    "location": "Kanauga,Rutherford,Masthope",
+    "phone": "(964) 513-2348",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Aquamate, Sandston, Colorado",
+        "permanent": "Cujo, Conway, Delaware"
+      }
+    ],
+    "marks": [
+      {
+        "english": 7,
+        "science": 93,
+        "computer": 56,
+        "hardware": 91
+      }
+    ]
+  },
+  {
+    "firstname": "Alejandra Wiley",
+    "lastname": "Ginger Alvarez",
+    "email": "gingeralvarez@cujo.com",
+    "location": "Titanic,Ferney,Kempton",
+    "phone": "(951) 417-2032",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Sultraxin, Hobucken, North Dakota",
+        "permanent": "Keengen, Brethren, Guam"
+      }
+    ],
+    "marks": [
+      {
+        "english": 85,
+        "science": 63,
+        "computer": 51,
+        "hardware": 61
+      }
+    ]
+  },
+  {
+    "firstname": "Prince Whitaker",
+    "lastname": "King Combs",
+    "email": "kingcombs@keengen.com",
+    "location": "Devon,Taft,Ezel",
+    "phone": "(815) 405-3345",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Reversus, Carbonville, Hawaii",
+        "permanent": "Memora, Downsville, Alabama"
+      }
+    ],
+    "marks": [
+      {
+        "english": 15,
+        "science": 32,
+        "computer": 87,
+        "hardware": 24
+      }
+    ]
+  },
+  {
+    "firstname": "Ayala Fletcher",
+    "lastname": "Elvia Hanson",
+    "email": "elviahanson@memora.com",
+    "location": "Retsof,Worcester,Tolu",
+    "phone": "(889) 426-2052",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Biolive, Ernstville, Illinois",
+        "permanent": "Filodyne, Welda, Florida"
+      }
+    ],
+    "marks": [
+      {
+        "english": 44,
+        "science": 57,
+        "computer": 61,
+        "hardware": 68
+      }
+    ]
+  },
+  {
+    "firstname": "Hubbard Stafford",
+    "lastname": "Penelope Bridges",
+    "email": "penelopebridges@filodyne.com",
+    "location": "Caroline,Deercroft,Motley",
+    "phone": "(942) 491-2814",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Moltonic, Forbestown, Louisiana",
+        "permanent": "Yogasm, Bergoo, Alaska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 10,
+        "science": 74,
+        "computer": 35,
+        "hardware": 55
+      }
+    ]
+  },
+  {
+    "firstname": "Merrill Castaneda",
+    "lastname": "Lucile Houston",
+    "email": "lucilehouston@yogasm.com",
+    "location": "Tooleville,Derwood,Zarephath",
+    "phone": "(860) 561-3635",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Zanity, Tampico, Mississippi",
+        "permanent": "Applideck, Staples, Arkansas"
+      }
+    ],
+    "marks": [
+      {
+        "english": 20,
+        "science": 85,
+        "computer": 59,
+        "hardware": 62
+      }
+    ]
+  },
+  {
+    "firstname": "Dejesus Dickerson",
+    "lastname": "Elise Robertson",
+    "email": "eliserobertson@applideck.com",
+    "location": "Albany,Warsaw,Ventress",
+    "phone": "(864) 585-2209",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Kog, Wacissa, Maryland",
+        "permanent": "Prowaste, Manila, Nevada"
+      }
+    ],
+    "marks": [
+      {
+        "english": 69,
+        "science": 41,
+        "computer": 24,
+        "hardware": 27
+      }
+    ]
+  },
+  {
+    "firstname": "Ward Tyler",
+    "lastname": "Lola Riddle",
+    "email": "lolariddle@prowaste.com",
+    "location": "Reinerton,Finzel,Dexter",
+    "phone": "(824) 453-3154",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Isopop, Whitehaven, Connecticut",
+        "permanent": "Cinaster, Martell, Massachusetts"
+      }
+    ],
+    "marks": [
+      {
+        "english": 89,
+        "science": 18,
+        "computer": 59,
+        "hardware": 9
+      }
+    ]
+  },
+  {
+    "firstname": "Martin Justice",
+    "lastname": "Lesley Watts",
+    "email": "lesleywatts@cinaster.com",
+    "location": "Cannondale,Hamilton,Fannett",
+    "phone": "(915) 562-3613",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Insurity, Lowgap, Georgia",
+        "permanent": "Tasmania, Hachita, New Mexico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 65,
+        "science": 11,
+        "computer": 4,
+        "hardware": 73
+      }
+    ]
+  },
+  {
+    "firstname": "Foley Banks",
+    "lastname": "Marisa Ayala",
+    "email": "marisaayala@tasmania.com",
+    "location": "Dyckesville,Enoree,Walland",
+    "phone": "(976) 557-2511",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Vicon, Silkworth, California",
+        "permanent": "Assurity, Whipholt, Maine"
+      }
+    ],
+    "marks": [
+      {
+        "english": 44,
+        "science": 10,
+        "computer": 49,
+        "hardware": 17
+      }
+    ]
+  },
+  {
+    "firstname": "Sonya Morton",
+    "lastname": "Marjorie Gillespie",
+    "email": "marjoriegillespie@assurity.com",
+    "location": "Jamestown,Villarreal,Coventry",
+    "phone": "(886) 494-2815",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Firewax, Valmy, Tennessee",
+        "permanent": "Suretech, Westerville, Missouri"
+      }
+    ],
+    "marks": [
+      {
+        "english": 64,
+        "science": 3,
+        "computer": 20,
+        "hardware": 2
+      }
+    ]
+  },
+  {
+    "firstname": "Muriel Shields",
+    "lastname": "Obrien Hernandez",
+    "email": "obrienhernandez@suretech.com",
+    "location": "Darbydale,Century,Boyd",
+    "phone": "(982) 496-3523",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Zolarity, Hillsboro, Northern Mariana Islands",
+        "permanent": "Quiltigen, Farmers, Virginia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 50,
+        "science": 2,
+        "computer": 67,
+        "hardware": 98
+      }
+    ]
+  },
+  {
+    "firstname": "Harper Vaughan",
+    "lastname": "Robertson Garrett",
+    "email": "robertsongarrett@quiltigen.com",
+    "location": "Dana,Malo,Camino",
+    "phone": "(966) 600-2115",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Kangle, Johnsonburg, Virgin Islands",
+        "permanent": "Rubadub, Dixonville, Nebraska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 63,
+        "science": 22,
+        "computer": 43,
+        "hardware": 5
+      }
+    ]
+  },
+  {
+    "firstname": "Carly Swanson",
+    "lastname": "Veronica Leonard",
+    "email": "veronicaleonard@rubadub.com",
+    "location": "Kent,Charco,Wright",
+    "phone": "(858) 406-3984",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Biflex, Longbranch, Utah",
+        "permanent": "Eplosion, Canby, Puerto Rico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 86,
+        "science": 16,
+        "computer": 68,
+        "hardware": 39
+      }
+    ]
+  },
+  {
+    "firstname": "Kelli Rodriguez",
+    "lastname": "Cathy Noble",
+    "email": "cathynoble@eplosion.com",
+    "location": "Wawona,Walker,Chalfant",
+    "phone": "(993) 452-3920",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Luxuria, Durham, Wyoming",
+        "permanent": "Suremax, Noblestown, South Dakota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 13,
+        "science": 62,
+        "computer": 12,
+        "hardware": 60
+      }
+    ]
+  },
+  {
+    "firstname": "Oneill Robbins",
+    "lastname": "Pansy Maldonado",
+    "email": "pansymaldonado@suremax.com",
+    "location": "Gilgo,Nogal,Belfair",
+    "phone": "(804) 553-3830",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Krag, Blue, Marshall Islands",
+        "permanent": "Dogtown, Yonah, North Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 6,
+        "science": 25,
+        "computer": 32,
+        "hardware": 19
+      }
+    ]
+  },
+  {
+    "firstname": "Cummings Rivas",
+    "lastname": "Mendez Duffy",
+    "email": "mendezduffy@dogtown.com",
+    "location": "Chesterfield,Brandywine,Southmont",
+    "phone": "(809) 523-3512",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Cytrek, Bluetown, Idaho",
+        "permanent": "Otherside, Clarence, New Jersey"
+      }
+    ],
+    "marks": [
+      {
+        "english": 45,
+        "science": 61,
+        "computer": 47,
+        "hardware": 88
+      }
+    ]
+  },
+  {
+    "firstname": "Shannon Raymond",
+    "lastname": "Jane Richmond",
+    "email": "janerichmond@otherside.com",
+    "location": "Bowie,Cataract,Richville",
+    "phone": "(875) 420-3136",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Aquasseur, Springhill, Kansas",
+        "permanent": "Elita, Caberfae, New Hampshire"
+      }
+    ],
+    "marks": [
+      {
+        "english": 66,
+        "science": 73,
+        "computer": 52,
+        "hardware": 24
+      }
+    ]
+  },
+  {
+    "firstname": "Campbell Adkins",
+    "lastname": "Morgan Morin",
+    "email": "morganmorin@elita.com",
+    "location": "Dunbar,Wolcott,Nicut",
+    "phone": "(918) 496-2136",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Golistic, Cloverdale, Vermont",
+        "permanent": "Xerex, Brenton, Wisconsin"
+      }
+    ],
+    "marks": [
+      {
+        "english": 89,
+        "science": 24,
+        "computer": 9,
+        "hardware": 55
+      }
+    ]
+  },
+  {
+    "firstname": "Mccarty Floyd",
+    "lastname": "Noel Wade",
+    "email": "noelwade@xerex.com",
+    "location": "Shepardsville,Bourg,Carrizo",
+    "phone": "(980) 509-3344",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Anivet, Westmoreland, Texas",
+        "permanent": "Cowtown, Gibsonia, Montana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 67,
+        "science": 11,
+        "computer": 98,
+        "hardware": 68
+      }
+    ]
+  },
+  {
+    "firstname": "Shelby Osborne",
+    "lastname": "Rosario Rocha",
+    "email": "rosariorocha@cowtown.com",
+    "location": "Saranap,Crisman,Fairmount",
+    "phone": "(849) 569-2393",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Twiggery, Calvary, Federated States Of Micronesia",
+        "permanent": "Venoflex, Kilbourne, Palau"
+      }
+    ],
+    "marks": [
+      {
+        "english": 9,
+        "science": 41,
+        "computer": 92,
+        "hardware": 10
+      }
+    ]
+  },
+  {
+    "firstname": "Solis Washington",
+    "lastname": "Aurora Ayers",
+    "email": "auroraayers@venoflex.com",
+    "location": "Hessville,Day,Fingerville",
+    "phone": "(983) 451-2744",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Premiant, Byrnedale, Kentucky",
+        "permanent": "Ozean, Shasta, South Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 31,
+        "science": 83,
+        "computer": 13,
+        "hardware": 6
+      }
+    ]
+  },
+  {
+    "firstname": "Burt Hamilton",
+    "lastname": "Gail Burgess",
+    "email": "gailburgess@ozean.com",
+    "location": "Greenbackville,Weedville,Leland",
+    "phone": "(843) 441-2156",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Viagreat, Leeper, Oklahoma",
+        "permanent": "Bristo, Succasunna, Arizona"
+      }
+    ],
+    "marks": [
+      {
+        "english": 42,
+        "science": 4,
+        "computer": 17,
+        "hardware": 32
+      }
+    ]
+  },
+  {
+    "firstname": "Kerr Haney",
+    "lastname": "Good Cardenas",
+    "email": "goodcardenas@bristo.com",
+    "location": "Freeburn,Lindisfarne,Greenwich",
+    "phone": "(805) 599-2848",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Nimon, Bluffview, Washington",
+        "permanent": "Incubus, Summerfield, Rhode Island"
+      }
+    ],
+    "marks": [
+      {
+        "english": 72,
+        "science": 74,
+        "computer": 29,
+        "hardware": 2
+      }
+    ]
+  },
+  {
+    "firstname": "Gallegos Miles",
+    "lastname": "Tanya Olsen",
+    "email": "tanyaolsen@incubus.com",
+    "location": "Cedarville,Rehrersburg,Kula",
+    "phone": "(811) 514-2972",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Temorak, Roland, Oregon",
+        "permanent": "Futurity, Movico, Minnesota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 19,
+        "science": 31,
+        "computer": 7,
+        "hardware": 87
+      }
+    ]
+  },
+  {
+    "firstname": "Terry Vinson",
+    "lastname": "Leticia Carter",
+    "email": "leticiacarter@futurity.com",
+    "location": "Brownlee,Indio,Greensburg",
+    "phone": "(875) 594-3586",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Digial, Reno, Michigan",
+        "permanent": "Inventure, Alden, District Of Columbia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 22,
+        "science": 32,
+        "computer": 63,
+        "hardware": 84
+      }
+    ]
+  },
+  {
+    "firstname": "Webb Merritt",
+    "lastname": "Dennis Vargas",
+    "email": "dennisvargas@inventure.com",
+    "location": "Efland,Salix,Hayes",
+    "phone": "(854) 519-3705",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Comvene, Naomi, American Samoa",
+        "permanent": "Flotonic, Russellville, Ohio"
+      }
+    ],
+    "marks": [
+      {
+        "english": 1,
+        "science": 18,
+        "computer": 22,
+        "hardware": 59
+      }
+    ]
+  },
+  {
+    "firstname": "Woodard Davis",
+    "lastname": "Nichole Sykes",
+    "email": "nicholesykes@flotonic.com",
+    "location": "Gilmore,Rose,Fredericktown",
+    "phone": "(832) 403-3738",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Quonata, Dalton, West Virginia",
+        "permanent": "Parcoe, Waiohinu, Indiana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 44,
+        "science": 2,
+        "computer": 71,
+        "hardware": 9
+      }
+    ]
+  },
+  {
+    "firstname": "Tammy Carpenter",
+    "lastname": "Gates Knowles",
+    "email": "gatesknowles@parcoe.com",
+    "location": "Catherine,Unionville,Dupuyer",
+    "phone": "(908) 452-2316",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Vertide, Driftwood, Pennsylvania",
+        "permanent": "Springbee, Lavalette, Iowa"
+      }
+    ],
+    "marks": [
+      {
+        "english": 50,
+        "science": 36,
+        "computer": 33,
+        "hardware": 28
+      }
+    ]
+  },
+  {
+    "firstname": "Adela Valdez",
+    "lastname": "Watts Bean",
+    "email": "wattsbean@springbee.com",
+    "location": "Kohatk,Concho,Valle",
+    "phone": "(897) 416-2756",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Magmina, Muir, Colorado",
+        "permanent": "Satiance, Advance, Delaware"
+      }
+    ],
+    "marks": [
+      {
+        "english": 32,
+        "science": 97,
+        "computer": 35,
+        "hardware": 18
+      }
+    ]
+  },
+  {
+    "firstname": "Hickman Wolfe",
+    "lastname": "Elma Dudley",
+    "email": "elmadudley@satiance.com",
+    "location": "Elwood,Rossmore,Kirk",
+    "phone": "(927) 514-3001",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Bullzone, Kylertown, North Dakota",
+        "permanent": "Pyramia, Gorst, Guam"
+      }
+    ],
+    "marks": [
+      {
+        "english": 43,
+        "science": 40,
+        "computer": 43,
+        "hardware": 88
+      }
+    ]
+  },
+  {
+    "firstname": "Ofelia Hull",
+    "lastname": "Verna Hurley",
+    "email": "vernahurley@pyramia.com",
+    "location": "Calpine,Grahamtown,Beechmont",
+    "phone": "(902) 422-2688",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Xinware, Steinhatchee, Hawaii",
+        "permanent": "Rockyard, Crucible, Alabama"
+      }
+    ],
+    "marks": [
+      {
+        "english": 2,
+        "science": 89,
+        "computer": 97,
+        "hardware": 46
+      }
+    ]
+  },
+  {
+    "firstname": "Cox Atkinson",
+    "lastname": "Jo Roberts",
+    "email": "joroberts@rockyard.com",
+    "location": "Alleghenyville,Waikele,Avalon",
+    "phone": "(920) 581-3081",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Polarax, Gorham, Illinois",
+        "permanent": "Envire, Itmann, Florida"
+      }
+    ],
+    "marks": [
+      {
+        "english": 6,
+        "science": 34,
+        "computer": 45,
+        "hardware": 86
+      }
+    ]
+  },
+  {
+    "firstname": "Horn Mason",
+    "lastname": "Eva Gates",
+    "email": "evagates@envire.com",
+    "location": "Katonah,Ruckersville,Beyerville",
+    "phone": "(861) 499-2224",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Urbanshee, Wadsworth, Louisiana",
+        "permanent": "Roughies, Blairstown, Alaska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 92,
+        "science": 49,
+        "computer": 39,
+        "hardware": 60
+      }
+    ]
+  },
+  {
+    "firstname": "Pena Frederick",
+    "lastname": "Dolly Dyer",
+    "email": "dollydyer@roughies.com",
+    "location": "Layhill,Nescatunga,Martinez",
+    "phone": "(851) 449-3154",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Portica, Summerset, Mississippi",
+        "permanent": "Tubalum, Cornfields, Arkansas"
+      }
+    ],
+    "marks": [
+      {
+        "english": 1,
+        "science": 28,
+        "computer": 9,
+        "hardware": 38
+      }
+    ]
+  },
+  {
+    "firstname": "Bernice Farmer",
+    "lastname": "Darcy Lindsey",
+    "email": "darcylindsey@tubalum.com",
+    "location": "Matheny,Chautauqua,Chloride",
+    "phone": "(802) 584-2547",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Bluplanet, Cobbtown, Maryland",
+        "permanent": "Securia, Salvo, Nevada"
+      }
+    ],
+    "marks": [
+      {
+        "english": 14,
+        "science": 82,
+        "computer": 45,
+        "hardware": 73
+      }
+    ]
+  },
+  {
+    "firstname": "Larsen Hopkins",
+    "lastname": "Wendi Kane",
+    "email": "wendikane@securia.com",
+    "location": "Ona,Juarez,Iberia",
+    "phone": "(972) 545-3053",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Updat, Allendale, Connecticut",
+        "permanent": "Bedder, Sisquoc, Massachusetts"
+      }
+    ],
+    "marks": [
+      {
+        "english": 21,
+        "science": 48,
+        "computer": 86,
+        "hardware": 75
+      }
+    ]
+  },
+  {
+    "firstname": "Mallory Richardson",
+    "lastname": "Aguilar Duke",
+    "email": "aguilarduke@bedder.com",
+    "location": "Linwood,Manchester,Hoagland",
+    "phone": "(966) 540-3494",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Peticular, Waterloo, Georgia",
+        "permanent": "Rocklogic, Wanamie, New Mexico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 56,
+        "science": 65,
+        "computer": 62,
+        "hardware": 17
+      }
+    ]
+  },
+  {
+    "firstname": "Roman Morse",
+    "lastname": "Harriet Hendrix",
+    "email": "harriethendrix@rocklogic.com",
+    "location": "Neibert,Kiskimere,Lumberton",
+    "phone": "(907) 459-3341",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Dognost, Rowe, California",
+        "permanent": "Zorromop, Holcombe, Maine"
+      }
+    ],
+    "marks": [
+      {
+        "english": 41,
+        "science": 38,
+        "computer": 70,
+        "hardware": 61
+      }
+    ]
+  },
+  {
+    "firstname": "Wanda Joyner",
+    "lastname": "Rodriquez Mccarty",
+    "email": "rodriquezmccarty@zorromop.com",
+    "location": "Fruitdale,Hollins,Jacksonburg",
+    "phone": "(842) 492-3031",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Entroflex, Brambleton, Tennessee",
+        "permanent": "Ramjob, Crenshaw, Missouri"
+      }
+    ],
+    "marks": [
+      {
+        "english": 85,
+        "science": 63,
+        "computer": 11,
+        "hardware": 2
+      }
+    ]
+  },
+  {
+    "firstname": "Jessica Fernandez",
+    "lastname": "Leanne Ferrell",
+    "email": "leanneferrell@ramjob.com",
+    "location": "Montura,Orin,Sims",
+    "phone": "(867) 466-3547",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Comverges, Ola, Northern Mariana Islands",
+        "permanent": "Comtrek, Duryea, Virginia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 100,
+        "science": 70,
+        "computer": 71,
+        "hardware": 26
+      }
+    ]
+  },
+  {
+    "firstname": "Horton Alford",
+    "lastname": "Donna Burnett",
+    "email": "donnaburnett@comtrek.com",
+    "location": "Leming,Datil,Allison",
+    "phone": "(907) 534-2747",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Mantrix, Sabillasville, Virgin Islands",
+        "permanent": "Orbin, Eagleville, Nebraska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 76,
+        "science": 63,
+        "computer": 11,
+        "hardware": 73
+      }
+    ]
+  },
+  {
+    "firstname": "Slater Bryant",
+    "lastname": "Tonya Ford",
+    "email": "tonyaford@orbin.com",
+    "location": "Oley,Defiance,Garberville",
+    "phone": "(964) 563-3278",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Phormula, Lydia, Utah",
+        "permanent": "Fitcore, Winston, Puerto Rico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 5,
+        "science": 63,
+        "computer": 89,
+        "hardware": 10
+      }
+    ]
+  },
+  {
+    "firstname": "Whitney Mcdaniel",
+    "lastname": "Beverley Abbott",
+    "email": "beverleyabbott@fitcore.com",
+    "location": "Deltaville,Windsor,Rockhill",
+    "phone": "(853) 462-3312",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Zillatide, Genoa, Wyoming",
+        "permanent": "Geeknet, Robbins, South Dakota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 81,
+        "science": 14,
+        "computer": 26,
+        "hardware": 30
+      }
+    ]
+  },
+  {
+    "firstname": "Mays Snyder",
+    "lastname": "Randolph Berg",
+    "email": "randolphberg@geeknet.com",
+    "location": "Barclay,Ticonderoga,Bodega",
+    "phone": "(907) 510-3974",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Fiberox, Norvelt, Marshall Islands",
+        "permanent": "Equicom, Coyote, North Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 32,
+        "science": 40,
+        "computer": 32,
+        "hardware": 89
+      }
+    ]
+  },
+  {
+    "firstname": "West Larson",
+    "lastname": "Dalton Singleton",
+    "email": "daltonsingleton@equicom.com",
+    "location": "Savannah,Baker,Greer",
+    "phone": "(923) 422-2766",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Apextri, Chamizal, Idaho",
+        "permanent": "Optique, Hemlock, New Jersey"
+      }
+    ],
+    "marks": [
+      {
+        "english": 89,
+        "science": 3,
+        "computer": 11,
+        "hardware": 5
+      }
+    ]
+  },
+  {
+    "firstname": "Madelyn Snider",
+    "lastname": "Michael Jensen",
+    "email": "michaeljensen@optique.com",
+    "location": "Temperanceville,Jugtown,Freelandville",
+    "phone": "(887) 483-2482",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Junipoor, Bradenville, Kansas",
+        "permanent": "Sultrax, Lafferty, New Hampshire"
+      }
+    ],
+    "marks": [
+      {
+        "english": 33,
+        "science": 35,
+        "computer": 23,
+        "hardware": 96
+      }
+    ]
+  },
+  {
+    "firstname": "Latasha Quinn",
+    "lastname": "Rosa Haley",
+    "email": "rosahaley@sultrax.com",
+    "location": "Suitland,Bedias,Sterling",
+    "phone": "(984) 439-2653",
+    "current_class": "4th",
+    "address": [
+      {
+        "communication": "Geoform, Tioga, Vermont",
+        "permanent": "Fuelworks, Hiwasse, Wisconsin"
+      }
+    ],
+    "marks": [
+      {
+        "english": 20,
+        "science": 41,
+        "computer": 87,
+        "hardware": 73
+      }
+    ]
+  },
+  {
+    "firstname": "Colette Bradford",
+    "lastname": "Battle Lester",
+    "email": "battlelester@fuelworks.com",
+    "location": "Flintville,Williamson,Vienna",
+    "phone": "(970) 599-3705",
+    "current_class": "9th",
+    "address": [
+      {
+        "communication": "Quadeebo, Greenfields, Texas",
+        "permanent": "Centice, Allentown, Montana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 21,
+        "science": 92,
+        "computer": 96,
+        "hardware": 90
+      }
+    ]
+  },
+  {
+    "firstname": "Ball Mercado",
+    "lastname": "Wolfe Kennedy",
+    "email": "wolfekennedy@centice.com",
+    "location": "Mooresburg,Moraida,Glasgow",
+    "phone": "(982) 591-3354",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Katakana, Elrama, Federated States Of Micronesia",
+        "permanent": "Eclipto, Groveville, Palau"
+      }
+    ],
+    "marks": [
+      {
+        "english": 16,
+        "science": 94,
+        "computer": 12,
+        "hardware": 38
+      }
+    ]
+  },
+  {
+    "firstname": "Rowena Lane",
+    "lastname": "Oneil Watkins",
+    "email": "oneilwatkins@eclipto.com",
+    "location": "Chesapeake,Idamay,Delco",
+    "phone": "(847) 485-3360",
+    "current_class": "3th",
+    "address": [
+      {
+        "communication": "Bulljuice, Dola, Kentucky",
+        "permanent": "Obones, Davenport, South Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 12,
+        "science": 89,
+        "computer": 46,
+        "hardware": 100
+      }
+    ]
+  },
+  {
+    "firstname": "Cooke Sweet",
+    "lastname": "Baird Hensley",
+    "email": "bairdhensley@obones.com",
+    "location": "Navarre,Tecolotito,Odessa",
+    "phone": "(856) 600-3972",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Talkalot, Brecon, Oklahoma",
+        "permanent": "Progenex, Yorklyn, Arizona"
+      }
+    ],
+    "marks": [
+      {
+        "english": 29,
+        "science": 64,
+        "computer": 18,
+        "hardware": 28
+      }
+    ]
+  },
+  {
+    "firstname": "Marsh Hayes",
+    "lastname": "Clara Garrison",
+    "email": "claragarrison@progenex.com",
+    "location": "Glenshaw,Vernon,Snyderville",
+    "phone": "(874) 408-3597",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Cipromox, Fulford, Washington",
+        "permanent": "Rodeomad, Tuskahoma, Rhode Island"
+      }
+    ],
+    "marks": [
+      {
+        "english": 42,
+        "science": 24,
+        "computer": 7,
+        "hardware": 87
+      }
+    ]
+  },
+  {
+    "firstname": "Dana Horn",
+    "lastname": "Minerva Cannon",
+    "email": "minervacannon@rodeomad.com",
+    "location": "Blanco,Disautel,Denio",
+    "phone": "(962) 463-2588",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Bolax, Blanford, Oregon",
+        "permanent": "Comvex, Weogufka, Minnesota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 64,
+        "science": 65,
+        "computer": 26,
+        "hardware": 49
+      }
+    ]
+  },
+  {
+    "firstname": "Kathy Gamble",
+    "lastname": "Mcgowan Mckay",
+    "email": "mcgowanmckay@comvex.com",
+    "location": "Stonybrook,Boling,Wyano",
+    "phone": "(963) 444-3401",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Combot, Noxen, Michigan",
+        "permanent": "Quizmo, Northchase, District Of Columbia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 77,
+        "science": 77,
+        "computer": 32,
+        "hardware": 61
+      }
+    ]
+  },
+  {
+    "firstname": "Dunlap Herrera",
+    "lastname": "Hogan Green",
+    "email": "hogangreen@quizmo.com",
+    "location": "Newry,Otranto,Virgie",
+    "phone": "(819) 572-3706",
+    "current_class": "6th",
+    "address": [
+      {
+        "communication": "Aquasure, Fontanelle, American Samoa",
+        "permanent": "Tubesys, Ahwahnee, Ohio"
+      }
+    ],
+    "marks": [
+      {
+        "english": 12,
+        "science": 4,
+        "computer": 63,
+        "hardware": 94
+      }
+    ]
+  },
+  {
+    "firstname": "Terry Collier",
+    "lastname": "Nanette Wynn",
+    "email": "nanettewynn@tubesys.com",
+    "location": "Hilltop,Kansas,Kingstowne",
+    "phone": "(813) 568-2223",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Aclima, Selma, West Virginia",
+        "permanent": "Norsul, Cutter, Indiana"
+      }
+    ],
+    "marks": [
+      {
+        "english": 19,
+        "science": 44,
+        "computer": 64,
+        "hardware": 91
+      }
+    ]
+  },
+  {
+    "firstname": "Deborah Nguyen",
+    "lastname": "Dominguez Bond",
+    "email": "dominguezbond@norsul.com",
+    "location": "Why,Blende,Shrewsbury",
+    "phone": "(851) 428-2699",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Asimiline, Statenville, Pennsylvania",
+        "permanent": "Comveyer, Kenvil, Iowa"
+      }
+    ],
+    "marks": [
+      {
+        "english": 3,
+        "science": 14,
+        "computer": 77,
+        "hardware": 10
+      }
+    ]
+  },
+  {
+    "firstname": "Gayle Gray",
+    "lastname": "Marie Burns",
+    "email": "marieburns@comveyer.com",
+    "location": "Vincent,Brandermill,Moquino",
+    "phone": "(997) 597-3827",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Lyria, Riverton, Colorado",
+        "permanent": "Cogentry, Cavalero, Delaware"
+      }
+    ],
+    "marks": [
+      {
+        "english": 5,
+        "science": 12,
+        "computer": 86,
+        "hardware": 9
+      }
+    ]
+  },
+  {
+    "firstname": "Katina Tillman",
+    "lastname": "Stefanie Shaffer",
+    "email": "stefanieshaffer@cogentry.com",
+    "location": "Gallina,Hoehne,Gordon",
+    "phone": "(928) 554-3007",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Indexia, Darlington, North Dakota",
+        "permanent": "Apexia, Websterville, Guam"
+      }
+    ],
+    "marks": [
+      {
+        "english": 25,
+        "science": 53,
+        "computer": 4,
+        "hardware": 61
+      }
+    ]
+  },
+  {
+    "firstname": "Ruiz Bowers",
+    "lastname": "Howell Newman",
+    "email": "howellnewman@apexia.com",
+    "location": "Tilleda,Belmont,Worton",
+    "phone": "(910) 438-3263",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Cablam, Beaverdale, Hawaii",
+        "permanent": "Pyramis, Takilma, Alabama"
+      }
+    ],
+    "marks": [
+      {
+        "english": 36,
+        "science": 45,
+        "computer": 33,
+        "hardware": 85
+      }
+    ]
+  },
+  {
+    "firstname": "Eileen Petty",
+    "lastname": "Noelle Payne",
+    "email": "noellepayne@pyramis.com",
+    "location": "Ypsilanti,Lodoga,Detroit",
+    "phone": "(867) 597-2916",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Andershun, Waumandee, Illinois",
+        "permanent": "Netplode, Sylvanite, Florida"
+      }
+    ],
+    "marks": [
+      {
+        "english": 61,
+        "science": 89,
+        "computer": 28,
+        "hardware": 82
+      }
+    ]
+  },
+  {
+    "firstname": "Violet Beasley",
+    "lastname": "Bobbi Wilcox",
+    "email": "bobbiwilcox@netplode.com",
+    "location": "Joes,Northridge,Fairlee",
+    "phone": "(894) 591-3472",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Permadyne, Kimmell, Louisiana",
+        "permanent": "Corepan, Lopezo, Alaska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 59,
+        "science": 10,
+        "computer": 30,
+        "hardware": 83
+      }
+    ]
+  },
+  {
+    "firstname": "Sheri Harmon",
+    "lastname": "Erma Tucker",
+    "email": "ermatucker@corepan.com",
+    "location": "Boomer,Guilford,Avoca",
+    "phone": "(894) 480-3560",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Acrodance, Thynedale, Mississippi",
+        "permanent": "Kiosk, Kenwood, Arkansas"
+      }
+    ],
+    "marks": [
+      {
+        "english": 27,
+        "science": 65,
+        "computer": 52,
+        "hardware": 55
+      }
+    ]
+  },
+  {
+    "firstname": "Sheila Conley",
+    "lastname": "Barnett Bell",
+    "email": "barnettbell@kiosk.com",
+    "location": "Gwynn,Conestoga,Hackneyville",
+    "phone": "(852) 442-3911",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Tellifly, Sunnyside, Maryland",
+        "permanent": "Zilodyne, Frierson, Nevada"
+      }
+    ],
+    "marks": [
+      {
+        "english": 7,
+        "science": 61,
+        "computer": 49,
+        "hardware": 43
+      }
+    ]
+  },
+  {
+    "firstname": "Marshall Livingston",
+    "lastname": "Lela Mcmahon",
+    "email": "lelamcmahon@zilodyne.com",
+    "location": "Baden,Wiscon,Dahlen",
+    "phone": "(965) 577-3758",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Geoforma, Faxon, Connecticut",
+        "permanent": "Tropolis, Morningside, Massachusetts"
+      }
+    ],
+    "marks": [
+      {
+        "english": 44,
+        "science": 83,
+        "computer": 92,
+        "hardware": 71
+      }
+    ]
+  },
+  {
+    "firstname": "James Poole",
+    "lastname": "Dorsey Heath",
+    "email": "dorseyheath@tropolis.com",
+    "location": "Axis,Crawfordsville,Sehili",
+    "phone": "(813) 563-2035",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Knowlysis, Leyner, Georgia",
+        "permanent": "Enervate, Dargan, New Mexico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 62,
+        "science": 65,
+        "computer": 63,
+        "hardware": 71
+      }
+    ]
+  },
+  {
+    "firstname": "Lou Cervantes",
+    "lastname": "Madeline Fitzpatrick",
+    "email": "madelinefitzpatrick@enervate.com",
+    "location": "Eggertsville,Smock,Monument",
+    "phone": "(910) 432-3850",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Confrenzy, Berwind, California",
+        "permanent": "Qualitern, Bloomington, Maine"
+      }
+    ],
+    "marks": [
+      {
+        "english": 37,
+        "science": 53,
+        "computer": 76,
+        "hardware": 60
+      }
+    ]
+  },
+  {
+    "firstname": "Lacey Weaver",
+    "lastname": "Berger Chase",
+    "email": "bergerchase@qualitern.com",
+    "location": "Chilton,Belleview,Roy",
+    "phone": "(920) 409-2502",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Ziggles, Dellview, Tennessee",
+        "permanent": "Orbean, Coultervillle, Missouri"
+      }
+    ],
+    "marks": [
+      {
+        "english": 21,
+        "science": 56,
+        "computer": 87,
+        "hardware": 1
+      }
+    ]
+  },
+  {
+    "firstname": "Winifred Hutchinson",
+    "lastname": "Chase Molina",
+    "email": "chasemolina@orbean.com",
+    "location": "Alafaya,Oberlin,Clara",
+    "phone": "(814) 586-3296",
+    "current_class": "5th",
+    "address": [
+      {
+        "communication": "Rooforia, Vivian, Northern Mariana Islands",
+        "permanent": "Panzent, Camas, Virginia"
+      }
+    ],
+    "marks": [
+      {
+        "english": 84,
+        "science": 65,
+        "computer": 12,
+        "hardware": 100
+      }
+    ]
+  },
+  {
+    "firstname": "Vasquez Cochran",
+    "lastname": "Jennifer Melton",
+    "email": "jennifermelton@panzent.com",
+    "location": "Winchester,Snelling,Ebro",
+    "phone": "(935) 482-2580",
+    "current_class": "8th",
+    "address": [
+      {
+        "communication": "Exostream, Ronco, Virgin Islands",
+        "permanent": "Shopabout, Kieler, Nebraska"
+      }
+    ],
+    "marks": [
+      {
+        "english": 10,
+        "science": 39,
+        "computer": 64,
+        "hardware": 58
+      }
+    ]
+  },
+  {
+    "firstname": "Mcneil Lara",
+    "lastname": "Harvey Bailey",
+    "email": "harveybailey@shopabout.com",
+    "location": "Whitestone,Kraemer,Adamstown",
+    "phone": "(882) 577-3342",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Bostonic, Brownsville, Utah",
+        "permanent": "Extragen, Fostoria, Puerto Rico"
+      }
+    ],
+    "marks": [
+      {
+        "english": 83,
+        "science": 36,
+        "computer": 73,
+        "hardware": 35
+      }
+    ]
+  },
+  {
+    "firstname": "Baxter Rich",
+    "lastname": "Hayden Patrick",
+    "email": "haydenpatrick@extragen.com",
+    "location": "Buxton,Grayhawk,Marshall",
+    "phone": "(870) 482-3542",
+    "current_class": "10th",
+    "address": [
+      {
+        "communication": "Maroptic, Nicholson, Wyoming",
+        "permanent": "Telequiet, Delshire, South Dakota"
+      }
+    ],
+    "marks": [
+      {
+        "english": 12,
+        "science": 90,
+        "computer": 7,
+        "hardware": 52
+      }
+    ]
+  },
+  {
+    "firstname": "Castillo Schneider",
+    "lastname": "Hicks Pierce",
+    "email": "hickspierce@telequiet.com",
+    "location": "Aguila,Vandiver,Chelsea",
+    "phone": "(911) 401-3932",
+    "current_class": "7th",
+    "address": [
+      {
+        "communication": "Ovium, Magnolia, Marshall Islands",
+        "permanent": "Teraprene, Marysville, North Carolina"
+      }
+    ],
+    "marks": [
+      {
+        "english": 68,
+        "science": 8,
+        "computer": 15,
+        "hardware": 64
+      }
+    ]
+  }
+]
