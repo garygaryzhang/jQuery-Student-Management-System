@@ -1,21 +1,18 @@
 <!DOCTYPE html>
 <html>
 
-<system.webServer>
-<staticContent>
-<mimeMap fileExtension=".json" mimeType="application/json"/>
-</staticContent>
-</system.webServer>
-
   <head>
     <script data-require="jquery@*" data-semver="3.1.1" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
     <link rel="stylesheet" href="style.css" />
     <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+   
   </head>
-
+  
   <body>
     <h2>Student Management System</h2>
-    <form id="form1" method="post" action="" onsubmit="">
+
       <table cellspacing="5" border="0">
         <tbody>
           <tr>
@@ -98,8 +95,23 @@
           </tr>
         </tbody>
       </table>
+      
+      <div id="loccard" style="height: 40px;">
+      <div id="makeMeDraggable1" >new york</div> 
+      <div id="makeMeDraggable2" >los angeles</div>
+      <div id="makeMeDraggable3" >san deigo</div>
+      </div>
+      
       <br />
-      </form>
+      
+      <div id="slot" style="height: 50px;">
+      <div id="makeMeDroppable">drop location here</div>
+      </div>
+      
+      <br />
+      <br />
+      <br />
+
       <input type="submit" value="Add" id="add" />
       <input type="submit" value="Search" id="search" />
       <input type="submit" value="Details" id="details" />

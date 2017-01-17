@@ -3,8 +3,41 @@
 var mydata = [];
 var session;
 var find;
+var dragpermanent;
+
 
 jQuery( document ).ready(function() {
+  
+  $( card );
+ 
+  function card() {
+    
+     $("#makeMeDraggable1").data('loc', "new york").appendTo('#makeMeDraggable1').draggable();
+     $("#makeMeDraggable2").data('loc', "los angeles").appendTo('#makeMeDraggable2').draggable();
+     $("#makeMeDraggable3").data('loc', "san deigo").appendTo('#makeMeDraggable3').draggable();
+  
+  }
+  
+  $( slot );
+  
+  function slot() {
+    $("#makeMeDroppable").droppable({
+      
+      drop: function( event, ui ) {
+        
+       var droppermanent=ui.draggable.data('loc');  
+       ui.draggable.draggable( 'disable' );
+       //$(this).droppable( 'disable' );
+       ui.draggable.position( { of: $(this), my: 'mid', at: 'mid' } );
+       ui.draggable.draggable( 'option', 'revert', false );
+       dragpermanent = droppermanent;
+
+      }
+      
+    });
+  }
+  
+  var l=100;
   
   jQuery('#add').click(function(){
     
@@ -24,10 +57,17 @@ jQuery( document ).ready(function() {
        var hhardware=$('#hard').val();
        
        var aaddress=[], mmarks=[];
+       var temp ='';
+       if(ppermanent === ''){
+         temp = dragpermanent
+       }
+       else if(ppermanent !== ''){
+         temp = ppermanent
+       }
        
        aaddress.push({
          communication : ccommunication,
-         permanent : ppermanent,
+         permanent : temp,
        });
        
        mmarks.push({
@@ -47,14 +87,12 @@ jQuery( document ).ready(function() {
          address : aaddress,
          marks: mmarks,
        });
-    
-       localStorage.setItem('session', JSON.stringify('session'));
        
+       localStorage.setItem('session', JSON.stringify('session'));
+       console.log(session);
        //
             var table = document.getElementById("myTable");
 
-                var i=100;
-    
                 var row = table.insertRow(1);
                 var cell1 = row.insertCell(0);
                 var cell2 = row.insertCell(1);
@@ -64,15 +102,15 @@ jQuery( document ).ready(function() {
                 var cell6 = row.insertCell(5);
                 var cell7 = row.insertCell(6);
                 
-                cell1.innerHTML = session[i].firstname;
-                cell2.innerHTML = session[i].lastname;
-                cell3.innerHTML = session[i].email;
-                cell4.innerHTML = session[i].location;
-                cell5.innerHTML = session[i].phone;
-                cell6.innerHTML = session[i].current_class;
-                cell7.innerHTML = session[i].address[0].permanent;
+                cell1.innerHTML = session[l].firstname;
+                cell2.innerHTML = session[l].lastname;
+                cell3.innerHTML = session[l].email;
+                cell4.innerHTML = session[l].location;
+                cell5.innerHTML = session[l].phone;
+                cell6.innerHTML = session[l].current_class;
+                cell7.innerHTML = session[l].address[0].permanent;
                 
-                i++;
+                l++;
 
                 jQuery('#firstname').val("");
                 jQuery('#lastname').val("");
@@ -86,6 +124,21 @@ jQuery( document ).ready(function() {
                 jQuery('#sci').val("");
                 jQuery('#comp').val("");
                 jQuery('#hard').val("");
+                
+                $("#makeMeDraggable1").animate({
+                      top: "0px",
+                      left: "0px"
+                });
+                
+                $("#makeMeDraggable2").animate({
+                      top: "0px",
+                      left: "3px"
+                });
+                
+                $("#makeMeDraggable3").animate({
+                      top: "0px",
+                      left: "10px"
+                });
   });
   
   jQuery('#edit').click(function(){
